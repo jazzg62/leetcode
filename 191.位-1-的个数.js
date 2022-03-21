@@ -20,4 +20,4 @@ var hammingWeight = function(n) {
 };
 // @lc code=end
 
-console.log(hammingWeight(111111111111101))
+console.log(hammingWeight(011111111111111111111111111111101))

@@ -23,3 +23,5 @@ var missingNumber = function(nums) {
 };
 // @lc code=end
 
+console.log(missingNumber([0,1,36,89]))
+
